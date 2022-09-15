@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-    background-image: url(./assets/n.jpg);
+    background-image: url(./assets/c.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #3F4986;
 }
 
 body * {
